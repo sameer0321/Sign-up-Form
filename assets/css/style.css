@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none !important;
+}
+
+.form {
+    width: 600px;
+    height: 700px;
+}
+
+.name {
+    width: 50%;
+    padding: 15px;
+    margin: 5px 0 16px 0;
+    display: inline-block;
+    border: 1px solid #00000066;
+    border-radius: 5px;
+}
+
+.password {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 16px 0;
+    display: inline-block;
+    border: 1px solid #00000066;
+    border-radius: 5px;
+}
+.email{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 16px 0;
+    display: inline-block;
+    border: 1px solid #00000066;
+    border-radius: 5px;
+}
+.About-me{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 16px 0;
+    display: inline-block;
+    border: 1px solid #00000066;
+    border-radius: 5px;
+}
+.icon{
+    position: absolute;
+    top: 30%;
+    right: 3%;
+}
+.icon2{
+    position: absolute;
+    top: 30%;
+    right: 3%;
+}
+.button{
+    border: none;
+    background-color: #2C49FE;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    width: 100%;
+    font-size: 16px;
+    color: white;
+    border-radius: 23px;
+}
